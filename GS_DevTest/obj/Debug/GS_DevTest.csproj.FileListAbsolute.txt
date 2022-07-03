@@ -1,0 +1,10 @@
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\bin\Debug\GS_DevTest.exe.config
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\bin\Debug\GS_DevTest.exe
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\bin\Debug\GS_DevTest.pdb
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\bin\Debug\Core.dll
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\bin\Debug\Core.pdb
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\obj\Debug\GS_DevTest.csprojAssemblyReference.cache
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\obj\Debug\GS_DevTest.csproj.CoreCompileInputs.cache
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\obj\Debug\GS_DevTest.csproj.CopyComplete
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\obj\Debug\GS_DevTest.exe
+D:\Project\Research\.net\OOP\GS_DevTest\GS_DevTest\obj\Debug\GS_DevTest.pdb

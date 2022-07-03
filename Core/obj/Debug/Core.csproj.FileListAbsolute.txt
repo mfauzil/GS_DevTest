@@ -1,0 +1,5 @@
+D:\Project\Research\.net\OOP\GS_DevTest\Core\bin\Debug\Core.dll
+D:\Project\Research\.net\OOP\GS_DevTest\Core\bin\Debug\Core.pdb
+D:\Project\Research\.net\OOP\GS_DevTest\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Project\Research\.net\OOP\GS_DevTest\Core\obj\Debug\Core.dll
+D:\Project\Research\.net\OOP\GS_DevTest\Core\obj\Debug\Core.pdb
